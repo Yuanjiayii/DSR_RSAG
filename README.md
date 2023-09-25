@@ -1,5 +1,6 @@
 # Recurrent Structure Attention Guidance for Depth Super-Resolution
 This is the pytorch implementation of our RSAG [paper](https://arxiv.org/pdf/2301.13419.pdf).
+![](https://github.com/Yuanjiayii/DSR_RSAG/blob/main/images/pipeline.jpg)
 ## 1. Requirement
 torch 1.10.1
 Opencv 4.8.0
